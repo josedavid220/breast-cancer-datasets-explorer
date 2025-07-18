@@ -1,7 +1,13 @@
 [project]
 name = "dataset-explorator"
 version = "0.1.0"
-description = "Add your description here"
+description = "A project to explore the contents of popular cancer datasets."
 readme = "README.md"
 requires-python = ">=3.13"
-dependencies = []
+dependencies = [
+    "gradio>=5.37.0",
+    "imagecodecs>=2025.3.30",
+    "pandas>=2.3.1",
+    "pillow>=11.3.0",
+    "tifffile>=2025.6.11",
+]
