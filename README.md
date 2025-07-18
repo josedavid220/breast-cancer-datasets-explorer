@@ -16,3 +16,6 @@ Reporsitory for a dataset explorer project focused on breast cancer research.
     ```bash
     uv run main.py
     ```
+
+## Preview
+![Demo](imgs/demo.png)
